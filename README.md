@@ -17,9 +17,13 @@ Hello! I am an **M.Tech Student specializing in Artificial Intelligence**,.
 
 ## 🛠️ Skills & Tools
 **Programming**: Python, SQL
+
 **Machine Learning**: Model Development, Scikit-learn, MLOps (MLflow)
+
 **NLP**: Text Processing, Tokenization, NER, Transformers (BERT, GPT)
+
 **Data Visualization**: Power BI, Matplotlib, Seaborn
+
 **Tools & Platforms**: Streamlit, Git, GitHub, Azure, Google Colab, SA
 
 
